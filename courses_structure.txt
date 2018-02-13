@@ -1,0 +1,180 @@
+Google Cloud Platform Courses	Google Cloud Platform Essentials
+AWS Courses	AWS Certified Solutions Architect - Associate Level (2014)
+Linux Courses	Introduction To Python 3 On Linux
+Linux Courses	LPIC Level 2 Exam 201
+Linux Courses	Introduction To Linux With Ubuntu 14 Desktop
+Linux Courses	Linux+ LPIC Level 1 Exam 2 (Legacy)
+Linux Courses	Linux+ LPIC Level 1 Exam 1 (Legacy)
+Linux Courses	Introduction To Android Development
+AWS Courses	Mastering The Amazon Web Services Command Line Interface
+AWS Courses	Amazon Web Services How Tos And Tutorials
+Linux Courses	How to Get a Linux Job
+Linux Courses	Mastering The Linux Command Line
+Linux Courses	Introduction To VMware ESXi
+AWS Courses	Hybrid AWS Technologies
+Linux Courses	Linux By Example For Novices To Pros
+OpenStack Courses	OpenStack Essentials - legacy
+Linux Courses	Introduction to the Linux Academy
+AWS Courses	AWS Certified SysOps Administrator - Associate Level
+AWS Courses	AWS Certified Developer - Associate Level 
+Linux Courses	CentOS 7: Enterprise Linux Server Update
+DevOps Courses	Learning Chef DevOps Deployment (legacy course)
+Linux Courses	Apache Tomcat 7 Application Server
+OpenStack Courses	Linux Academy Red Hat OpenStack Administrator Certification Prep Course (Legacy)
+Linux Courses	Linux Security Essentials
+Linux Courses	Linux Foundation Certified Systems Administrator (Legacy)
+OpenStack Courses	Deploy and Manage OpenStack on Ubuntu - Icehouse (Legacy)
+Linux Courses	Introduction To Ruby Programming Language On Linux
+DevOps Courses	Learning Vagrant 
+DevOps Courses	Learning Puppet DevOps Deployment (Puppet Professional Cert)
+Linux Courses	Nginx And The LEMP Stack
+Linux Courses	Git and GitLab - Start to Finish
+Linux Courses	Apache Tomcat 8 Application Server
+AWS Courses	AWS Certified DevOps Engineer - Professional Level
+AWS Courses	Deploying MariaDB Or MySQL On VPC EC2 From Scratch With Replication
+DevOps Courses	Docker Deep Dive 
+Openstack Courses	OpenStack MCA100 - Associates Certification (Legacy Course)
+Linux Courses	Apache JBOSS Administration
+Linux Courses	Richard-Test
+DevOps Courses	Jenkins and Build Automation
+Linux Courses	David-Test
+DevOps Courses	Managing Docker Containers With Atomic Host
+Linux Courses	Linux Master Course
+AWS Courses	AWS Certified Solutions Architect - Professional Level
+Linux Courses	PostgreSQL 9.4 Administration
+Creating A Serverless Event Driven Video Encoding And Streaming Application
+Linux Courses	Linux Academy Red Hat Certified Systems Administrator - RHCSA (EX200) Prep Course
+Linux Courses	Linux Academy Red Hat Certified Engineer Prep Course
+AWS Courses	AWS Certified Solutions Architect - Associate Level - Legacy (2016)
+Linux Courses	SQL Primer
+OpenStack Courses	OpenStack Foundation Certified OpenStack Administrator - Legacy
+AWS Courses	Active Directory and Amazon Web Services
+Linux Courses	Linux Foundation Certified Systems Engineer
+AWS Courses	Advanced AWS Security
+AWS Courses	Ansible and Amazon Web Services
+AWS Courses	Lambda Deep Dive
+AWS Courses	Docker And Elastic Beanstalk
+AWS Courses	Using the EC2 Container Service
+Linux Courses	Linux Essentials Certification
+AWS Courses	Developing for Mobile with AWS Mobile Services
+DevOps Courses	DevOps Essentials
+DevOps Courses	Using Ansible for Configuration Management and Deployments
+Linux Courses	CompTIA Network+
+AWS Courses	Manage and Deploy Code with AWS Developer Tools
+DevOps Courses	Puppet Professional Certification
+Linux Courses	The System Administratorâs Guide to Bash Scripting
+Big Data Courses	Apache Spark Essentials
+Azure Courses	Implementing Microsoft Azure Infrastructure Exam 70-533 Prep-  Legacy
+Azure Courses	Microsoft Azure Essentials
+Big Data Courses	Big Data Essentials
+Linux Courses	Linux Foundation Certified System Administrator (LFCSA v2.16) 
+Linux Courses	Linux KVM Virtualization Essentials
+DevOps Courses	Running Container Clusters with Kubernetes
+Linux Courses	Vim - The Improved Editor
+DevOps Courses	Certified Chef Developer Basic Chef Fluency Badge
+Linux Courses	CompTIA Cloud Essentials Certification
+Azure Courses	Developing Microsoft Azure Solutions Exam 70-532 Prep - November 2016 Objectives (October 2017 Objec
+Linux Courses	Learning Python 2.7 Development
+Azure Courses	PowerShell Essentials
+Azure Courses	Architecting Microsoft Azure Solutions Exam 70-534 Prep
+Azure Courses	Microsoft Azure Container Service with Docker
+DevOps Courses	Ansible Quick Start
+Linux Courses	BYOL: Build Your Own Linux From Scratch
+Linux Courses	Git Quick Start
+DevOps Courses	Docker Quick Start
+Linux Courses	Bootloading with GRUB
+Linux Courses	Designing and Managing a Linux Academy Course
+DevOps Courses	Jenkins Quick Start
+AWS Courses	AWS Backup Strategies
+Big Data Courses	Machine Learning with Azure
+AWS Courses	AWS Concepts
+Linux Courses	LPIC-2: Linux Engineer Exam 201
+DevOps Courses	Puppet Quick Start
+DevOps Courses	Serverless Concepts
+AWS Courses	Amazon Machine Learning
+AWS Courses	AWS Essentials
+Azure Courses	ARM Templates Deep Dive
+AWS Courses	Deploy to AWS with Ansible and Terraform
+Azure Courses	Azure IoT Essentials
+Linux Courses	Nagios Certified Professional
+AWS Courses	AWS Certified Advanced Networking - Specialty Certification (Legacy)
+Linux Courses	Linux Academy Red Hat Certified Specialist in Containerized Application Development EX276 - Prep Cou
+OpenStack Courses	OpenStack Magnum Containers
+Linux Courses	Deploying Microservices with Puppet and Containers
+Google Cloud Platform Courses	Google Cloud Platform for the AWS User
+Linux Courses	LPIC-2: Linux Engineer Exam 202
+OpenStack Courses	Deploy and Manage OpenStack on Ubuntu - Newton
+AWS Courses	AWS Certified Big Data Specialty - Certification
+DevOps Courses	Building Containers With Puppet
+Azure Courses	Implementing Microsoft Azure Infrastructure Exam 70-533 - November 2016 Objectives (October 2017 Obj
+OpenStack Courses	OpenStack Essentials (new)
+DevOps Courses	Jenkins Systems Test Automation
+DevOps Courses	PPT-204: Puppet 204 - System Administration Using Puppet
+DevOps Courses	Chef Local Cookbook Development Badge
+Azure Courses	Azure IoT for the Enterprise
+OpenStack Courses	OpenStack Foundation's Certified OpenStack Administrator - COA
+Linux Courses	Linux+ and LPIC-1: System Administrator - Exam 102
+Linux Courses	Linux Academy Red Hat Certified Specialist in Configuration Management with Puppet Prep Course (EX40
+Linux Courses	Linux Academy Red Hat Certified Specialist in Atomic Host Container Administration Prep Course (EX27
+Google Cloud Platform Courses	Google Container Engine
+OpenStack Courses	Linux Academy Red Hat Certified Engineer in Red Hat OpenStack Prep Course
+DevOps Courses	Certified Chef Developer Extending Chef Badge
+Azure Courses	PowerShell Core for Linux Admins
+Linux Courses	Learning Docker With Anthony James
+Google Cloud Platform Courses	Google Cloud Platform Essentials
+Linux Courses	Linux Academy Red Hat Certified Specialist in Server Hardening Prep Course
+DevOps Courses	Certified Jenkins Engineer (CJE) - 2017
+Azure Courses	Implementing Azure Functions
+Azure Courses	Exam Prep 70-532: Developing Microsoft Azure Solutions - October 2017
+Containers Courses	LXC/LXD Deep Dive
+Linux Courses	Red Hat Certified Specialist in Ansible Automation Prep Course
+Linux Courses	Linux+ and LPIC-1: System Administrator - Exam 101
+Google Cloud Platform Courses	Google Certified Professional - Cloud Architect - Part 2
+Google Cloud Platform Courses	Google Certified Professional - Cloud Architect - Part 1
+Azure Courses	The Azure Subscription Model
+AWS Courses	AWS Certified Solutions Architect - Associate
+Azure Courses	The Azure Portal
+Linux Courses	Adventures in Python 3
+Containers Courses	Linux Academy Red Hat Certified Specialist in Platform-as-a-Service Exam (EX280) Prep Course (OpenSh
+OpenStack Courses	Linux Academyâs OpenStack Certified Mirantis 100 Prep (OCM100)
+AWS Courses	AWS Certified Big Data Specialty - Certification New
+Azure Courses	Azure Exam Prep 70-533 Implementing Microsoft Azure Infrastructure Solutions - October 2017
+DevOps Courses	Linux Professional Institute DevOps Tools Engineer Certification Prep Course
+Containers Courses	Docker Certified Associate Prep Course
+AWS Courses	AWS CloudFormation Deep Dive
+AWS Courses	Fullstack Serverless Applications on AWS
+Containers Courses	Certified Kubernetes Administrator (CKA) 
+AWS Courses	AWS Security Essentials
+Linux Courses	LPI Linux Essentials
+AWS Courses	AWS Certified SysOps Administrator - Associate Level - NEW
+Azure Courses	Azure Core Concepts
+Welcome To Linux Academy and Cloud Assessments
+Linux Courses	Python 2.7 Scripting For System Administrators
+Google Cloud Platform Courses	Google Certified Professional - Cloud Architect - Part 3
+Google Cloud Platform Courses	Google App Engine Deep Dive
+AWS Courses	AWS Certified Cloud Practitioner
+AWS Courses	AWS Certified Advanced Networking - Specialty Certification (NEW)
+DevOps Courses	Python 3 Scripting for System Administrators
+Linux Courses	Mastering Systemd
+DevOps Courses	Red Hat Certified Specialist in Deployment and Systems Management
+Linux Courses	Using Kubernetes with Minicube
+Linux Courses	Cloud Foundry Essentials
+Linux Courses	Linux Foundation Certified System Administrator (v3.18)
+DevOps Courses	Atomic Host Containers
+DevOps Courses	Using Ansible for Configuration Management and Deployment
+AWS Courses	AWS IAM (Identity &amp; Access Management) Deep Dive
+Linux Courses	Nginx Web Server Deep Dive 
+DevOps Courses	Cloud Foundry Certified Developer
+AWS Courses	AWS Certified Developer - Associate 
+AWS Courses	AWS Security Best Practices for Fintech Companies
+AWS Courses	Building a Serverless Chatbot with AWS Lex
+DevOps Courses	Managing Applications and Infrastructure with Terraform
+AWS Courses	Using the AWS ECS (EC2 Container Service)
+Google Cloud Platform Courses	Google Professional Data Engineer Certification
+OpenStack Courses	Linux Academy's RHCSA in Red Hat OpenStack
+Google Cloud Platform Courses	Google Cloud Functions Deep Dive
+Deploy and Manage OpenStack on Ubuntu - Pike
+DevOps Courses	Cloud Foundry Certified Developer
+Google Cloud Platform Courses	Google Cloud Platform Security Essentials
+DevOps Courses	Using Salt for Configuration Management and Orchestration
+AWS Courses	Deploying to AWS with Ansible and Terraform
